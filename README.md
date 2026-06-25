@@ -36,7 +36,6 @@ Target klasifikasi:
 
 ## 🛠️ Library
 
-- Python
 - Pandas
 - NumPy
 - Matplotlib
@@ -51,7 +50,7 @@ Model yang digunakan:
 
 - Random Forest Classifier
 
-Preprocessing:
+Tahapan preprocessing:
 
 - SimpleImputer
 - OneHotEncoder
@@ -62,7 +61,7 @@ Preprocessing:
 
 ## 📊 Evaluasi Model
 
-Evaluasi dilakukan menggunakan:
+Model dievaluasi menggunakan:
 
 - Accuracy
 - Confusion Matrix
@@ -84,44 +83,14 @@ bank-marketing-random-forest/
 ├── bank.csv
 ├── RandomForest_BankMarketing.ipynb
 ├── random_forest_bank.pkl
-├── README.md
-└── requirements.txt
-```
-
----
-
-## ▶️ Menjalankan Project
-
-Clone repository:
-
-```bash
-git clone https://github.com/gumelarakhirul/bank-marketing-random-forest.git
-```
-
-Masuk ke folder project:
-
-```bash
-cd bank-marketing-random-forest
-```
-
-Install dependency:
-
-```bash
-pip install -r requirements.txt
-```
-
-Jalankan notebook:
-
-```bash
-jupyter notebook
+└── README.md
 ```
 
 ---
 
 ## 👤 Author
 
-**Gumelar Akhirul Ramadhan**
-
+**Gumelar Akhirul Ramadhan**  
+NIM: 0920240027  
+Program Studi Teknologi Rekayasa Perangkat Lunak  
 Politeknik Astra
-
-TRPL
